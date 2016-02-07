@@ -1,0 +1,76 @@
+@import url(https://fonts.googleapis.com/css?family=Damion);
+@import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,700italic);
+
+body {
+  text-align: center;
+  background: url(http://orig10.deviantart.net/d4cd/f/2013/158/b/5/chill_out___wallpaper_pack_by_emper0rpenguin-d684q2k.png) fixed;
+  background-size: cover;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 15%;
+  color: #b20013;
+  text-shadow: 3px 3px #2a1610;
+  font-size: 100px;
+  font-family: 'Damion', cursive;
+}
+
+#random {
+  font-size: 50px;
+  font-family: 'Damion', cursive;
+}
+
+input {
+  width: 500px;
+  height: 50px;
+  background: black;
+  margin: auto;
+  margin-left: 26px;
+  border: 2px solid red;
+  border-radius: 100px;
+  color: lightgrey;
+  text-align: center;
+  font-size: 30px;
+  outline: none;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+button {
+  position: relative;
+  right: 50px;
+  background: black;
+  border: none;
+  outline: none;
+  color: #b20013;
+}
+
+a:hover,
+a:link,
+a:visited,
+a:active {
+  margin-top: 30px;
+  font-size: 30px;
+  text-decoration: none;
+  color: #b20013;
+}
+
+ul {
+  width: 80%;
+  margin: auto;
+  margin-left: 90px;
+}
+
+li {
+  list-style-type: none;
+  padding: 15px;
+  margin-bottom: 10px;
+  font-size: 25px;
+  background: #eee;
+  border: rgba(0, 0, 0, .2) 10px solid;
+  border-radius: 15px;
+  color: black;
+  font-family: 'Crimson Text', serif;
+  font-weight: bold;
+}
